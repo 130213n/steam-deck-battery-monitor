@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://ibb.co" width="400">
-</p>
+![Steam Deck Logo](https://wikimedia.org)
 
 # Steam Deck Battery Monitor
 
