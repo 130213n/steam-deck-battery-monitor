@@ -1,4 +1,4 @@
-![Steam Deck Logo](https://wikimedia.org)
+<img src="https://githubusercontent.com" width="400">
 
 # Steam Deck Battery Monitor
 
