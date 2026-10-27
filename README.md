@@ -1,5 +1,3 @@
-<img src="https://githubusercontent.com" width="400">
-
 # Steam Deck Battery Monitor
 
 A simple tool to check your Steam Deck's battery percentage from your PC or smartphone. 
